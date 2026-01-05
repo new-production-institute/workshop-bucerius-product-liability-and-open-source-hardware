@@ -38,6 +38,10 @@ doc/
 └── product-liability-open-source-hardware-frei-and-sparzynski-DE.pdf
 ```
 
+Also here:
+
+https://www.oshop-network.de/veranstaltungen/produkthaftung-fuer-open-source-hardware/
+
 ## Authors
 
 Greta Sparzynski and Tarmio Emanuel Sathya Frei
